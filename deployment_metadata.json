@@ -1,0 +1,7 @@
+{
+  "remote_agent_runtime_id": "projects/1014959422326/locations/us-central1/reasoningEngines/6699438147492642816",
+  "deployment_target": "agent_runtime",
+  "is_a2a": true,
+  "agent_directory": "app",
+  "deployment_timestamp": "2026-10-03T07:23:18.434442+00:00"
+}
